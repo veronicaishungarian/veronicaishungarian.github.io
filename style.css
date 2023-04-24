@@ -2,6 +2,10 @@ body {
 background-color: #FFFFFF;
 
 }
+
+.noBullet{
+	list-style-type: none;
+}
 #apollo {
 	background-color: #FFD200;
 }
